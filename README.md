@@ -1,3 +1,5 @@
+I am excited to see how this function and others can be used to save and load in my own projects. I believe I added the -3 value in the right place, but I apologize if I did not. 
+
 # E07a-Save-and-Load    
 
 This is an opportunity for you to practice the simplest form of saving state in Godot, saving to a config file.
